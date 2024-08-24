@@ -1,0 +1,21 @@
+name: git_emoji_enhancer
+description: A tool to enhance Git commit messages with emojis.
+version: 0.1.0
+repository: https://github.com/KaungKhantKyaw1997/git_emoji_enhancer
+homepage: https://github.com/KaungKhantKyaw1997/git_emoji_enhancer#readme
+
+environment:
+  sdk: ^3.2.6
+
+dependencies:
+  args: ^2.5.0
+
+dev_dependencies:
+  test: ^1.24.0
+
+topics:
+  - command-line
+  - git
+  - emojis
+  - commit-messages
+  - developer-tools
